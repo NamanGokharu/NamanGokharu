@@ -1,8 +1,8 @@
 ### Hey TechGeek, I'm Naman Gokharu 👋
 
-- 🔭 I’m currently working on Android APPs Development.
+- 🔭 I’m currently working on Open Source projects as a contributor.
 - 🌱 I’m currently learning MEAN Stack and hope to develop progressive web apps in near future.
-- 👯 I’m looking to collaborate on Open Source projects based on Dataset Analysis and Visualisation or PYTHON/JAVA Development.
+- 👯 I’m looking to collaborate on projects based on Android Development or Dataset Analysis and Visualisation or PYTHON/JAVA Development.
 
 - 📫 How to reach me: namangokharu01@gmail.com
 - 😄 Pronouns: He/His
